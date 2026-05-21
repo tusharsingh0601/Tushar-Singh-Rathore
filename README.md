@@ -81,11 +81,13 @@ I'm a passionate **Computer Science & Engineering** undergraduate specializing i
 - Natural Language Processing (NLP)
 - Big Data Analytics
 - Working on Projects like :
-        - AI Model for Flagging Suspicious Transactions : Built a predictuve model using Python, Pandas, and XGBoost to detect fraudulent activity with 96% 
-F1-Score and Deployed a full-stack interface (Django/MySQL) to visualize real-time risk scores, ensuring sub-
-100ms inference me.
-        - Real Time Groundwater Resource Evaluation using DWLR Data : Implemented Long Short-Term Memory (LSTM) neural networks to forecast water level trends 
-with 92% accuracy, enabling proactive drought and extraction management with interactive Dashboard. 
+
+          - AI Model for Flagging Suspicious Transactions : Built a predictuve model using Python, Pandas, and XGBoost to detect fraudulent activity with 96% 
+        F1-Score and Deployed a full-stack interface (Django/MySQL) to visualize real-time risk scores, ensuring sub-
+        100ms inference me.
+
+          - Real Time Groundwater Resource Evaluation using DWLR Data : Implemented Long Short-Term Memory (LSTM) neural networks to forecast water level trends 
+        with 92% accuracy, enabling proactive drought and extraction management with interactive Dashboard. 
 
 
 ---
