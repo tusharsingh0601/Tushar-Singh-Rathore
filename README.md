@@ -77,6 +77,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate specializing i
 
 ## 🌱 Currently Learning
 
+- Data Analytics
 - Deep Learning & Neural Networks
 - Natural Language Processing (NLP)
 - Big Data Analytics
