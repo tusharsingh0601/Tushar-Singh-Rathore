@@ -4,11 +4,9 @@
 
 ### B.Tech CSE (Data Science) | AI/ML Enthusiast | Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-singh-rathore)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharsingh0601)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsinghrathore306@gmail.com)
 
 </div>
 
@@ -22,8 +20,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate specializing i
 - 🔭 **Currently Exploring:** AI/ML, Deep Learning & Advanced Data Science techniques
 - 👯 **Looking to Collaborate on:** Projects that tackle real-world problems and create tangible impact
 - 💡 **Interests:** Artificial Intelligence, Web Development, Open Source, and pushing the boundaries of technology
-- 📫 **Reach me via:** [LinkedIn](https://linkedin.com) or right here on GitHub
-- ⚡ **Fun Fact:** I have an exceptional talent for collecting information — some call it gossip, I call it *data aggregation* 😄
+- 📫 **Reach me via:** [LinkedIn](https://linkedin.com/in/tushar-singh-rathore) or right here on GitHub
 
 ---
 
@@ -65,14 +62,14 @@ I'm a passionate **Computer Science & Engineering** undergraduate specializing i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=tusharsingh0601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingh0601&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tusharsingh0601&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,10 +77,16 @@ I'm a passionate **Computer Science & Engineering** undergraduate specializing i
 
 ## 🌱 Currently Learning
 
-- 🤖 Deep Learning & Neural Networks
-- 🧠 Natural Language Processing (NLP)
-- ☁️ Cloud platforms for ML deployment (AWS / GCP)
-- 📦 MLOps fundamentals
+- Deep Learning & Neural Networks
+- Natural Language Processing (NLP)
+- Big Data Analytics
+- Working on Projects like :
+        - AI Model for Flagging Suspicious Transactions : Built a predictuve model using Python, Pandas, and XGBoost to detect fraudulent activity with 96% 
+F1-Score and Deployed a full-stack interface (Django/MySQL) to visualize real-time risk scores, ensuring sub-
+100ms inference me.
+        - Real Time Groundwater Resource Evaluation using DWLR Data : Implemented Long Short-Term Memory (LSTM) neural networks to forecast water level trends 
+with 92% accuracy, enabling proactive drought and extraction management with interactive Dashboard. 
+
 
 ---
 
